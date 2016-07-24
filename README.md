@@ -1,2 +1,2 @@
 # cocbarteltool
-Deze tool is gemaakt voor coc eindhoven.
+Deze tool is gemaakt voor coc Eindhoven.
